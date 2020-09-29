@@ -1,4 +1,4 @@
-Discord Dev Scripts : https://discord.gg/5EDP4KH
+
 ### [EN]  [FR] ( resmon 1 : CPU msec : 0.03 ms )
 
 ##### Allow Player to | | Permet au Joueur de :
@@ -8,7 +8,6 @@ Discord Dev Scripts : https://discord.gg/5EDP4KH
 - [x] Buy Fruit / Juice at Fruit Stand      | | Acheter des Fruit / Jus dans les Stand de Fruits
 
 # [EN] Drinking Fountains, Fruit Stand, Coffee & Vending Machines   [ Script Using ESX ]
-Created by Selene Desna on August 13, 2020 for [ Holliday's RP https://discord.gg/rzPAeFr ]
 
 This Script need your database to have a coffee item and the three item you want in the vending machines.
 To use the Drinking Fountains you will need esx_status : [ github.com/esx-framework/esx_status ]
@@ -64,7 +63,6 @@ To add a coffee / vending machine , a fruit stand or a foutain copy the followin
 
 
 # [FR] Fontaine à Eau, Stand de Fruit, Machine à Café & Distributeurs   [ Script Utilisant ESX ]
-Creer par Selene Desna le 13 aout 2020 pour [ Holliday's RP https://discord.gg/rzPAeFr ]
 
 Ce Script à besoin que votre base de donnée est un item café et les trois item choisi pour les distributeurs.
 Pour utilisé les fontaine à eau vous aurez besoin de esx_status : [ github.com/esx-framework/esx_status ]
